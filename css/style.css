@@ -1,0 +1,13 @@
+.sidebar {
+    width: 30%;
+    float: center;
+    background-color: grey;
+}
+.img {
+    width: 617px;
+    height: 144px;
+}
+h1 {
+    color: seagreen;
+    text-align: center;
+}
